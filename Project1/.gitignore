@@ -1,0 +1,9 @@
+assembler.exe
+simulator.exe
+multiplication.mc
+notclever.*
+sample.*
+nor.*
+divide.*
+*.mc
+output

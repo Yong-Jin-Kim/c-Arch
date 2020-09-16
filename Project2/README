@@ -1,0 +1,9 @@
+there are few things to consider in this project
+
+I tried to implement both data and branch hazard detection
+
+it turns out that there should be 3 instructions between load instruction and ALU instruction of load-use hazard
+
+i'm not really sure about this, but i guess that this is maybe because of using newState and state.
+
+also i want to question on the Project because if we initiallize all cycles, pcs, regs and instruction fields, we cannot have the same Output as 9.
